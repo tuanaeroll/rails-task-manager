@@ -1,0 +1,55 @@
+=> 
+[[32m#<Task:0x00007fcc729144c0[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mLaundry[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mDo not mix colors![0m[31m[1m"[0m,
+  compeleted: [36m[1mnil[0m,
+  created_at:
+   Tue, 12 Nov 2024 11:21:35.738432000 UTC +00:00,
+  updated_at:
+   Tue, 12 Nov 2024 11:21:35.738432000 UTC +00:00[32m>[0m,
+ [32m#<Task:0x00007fcc72914380[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mStudying[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mA lot of flashcards to do[0m[31m[1m"[0m,
+  compeleted: [36m[1mtrue[0m,
+  created_at:
+   Tue, 12 Nov 2024 12:22:43.243611000 UTC +00:00,
+  updated_at:
+   Tue, 12 Nov 2024 12:22:43.243611000 UTC +00:00[32m>[0m,
+ [32m#<Task:0x00007fcc72914240[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mwalk[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mwalk in the rain[0m[31m[1m"[0m,
+  compeleted: [36m[1mnil[0m,
+  created_at:
+   Tue, 12 Nov 2024 13:54:24.083305000 UTC +00:00,
+  updated_at:
+   Tue, 12 Nov 2024 13:54:24.083305000 UTC +00:00[32m>[0m,
+ [32m#<Task:0x00007fcc72914100[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mwalk[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mwalk in the rain[0m[31m[1m"[0m,
+  compeleted: [36m[1mnil[0m,
+  created_at:
+   Tue, 12 Nov 2024 13:54:25.555355000 UTC +00:00,
+  updated_at:
+   Tue, 12 Nov 2024 13:54:25.555355000 UTC +00:00[32m>[0m,
+ [32m#<Task:0x00007fcc72913fc0[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mwalk[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mwalk in the rain[0m[31m[1m"[0m,
+  compeleted: [36m[1mnil[0m,
+  created_at:
+   Tue, 12 Nov 2024 13:54:26.455961000 UTC +00:00,
+  updated_at:
+   Tue, 12 Nov 2024 13:54:26.455961000 UTC +00:00[32m>[0m,
+ [32m#<Task:0x00007fcc72913e80[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mwalk[0m[31m[1m"[0m,
+  details: [31m[1m"[0m[31mwalk in the rain[0m[31m[1m"[0m,
+  compeleted: [36m[1mnil[0m,
+  created_at:
+   Tue, 12 Nov 2024 13:54:47.097737000 UTC +00:00,
+  updated_at:
+   Tue, 12 Nov 2024 13:54:47.097737000 UTC +00:00[32m>[0m]
